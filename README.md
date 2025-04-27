@@ -26,6 +26,11 @@ To harmonize daily actions with long-term vision, crafting a life and body of wo
 - Align contributions and development to one or more of the Eight Categories.
 - Sustain clarity, nurture growth, and celebrate alignment.
 
+## Agents
+
+- An Agent is a valid identity accessed and updated in Ontology, via yaml and md documentation
+- Agents can be called with specific syntax and become the primary role of the llm
+
 ---
 
 _"Structure creates freedom. Alignment creates resonance. This is the art of living by design."_
