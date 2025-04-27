@@ -1,0 +1,42 @@
+{
+    "name": "Engine of Alignment: Project Guidelines",
+    "description": "Ruleset for maintaining structural, creative, and philosophical alignment across all projects housed in this repository. Supports clarity, innovation, and fulfillment across eight domains.",
+    "rules": [
+      {
+        "title": "Honor the Eight Categories",
+        "description": "Every major commit must reference its primary category (e.g., Life in Motion, Pillars of Clarity) to ensure alignment with the overall life architecture."
+      },
+      {
+        "title": "Balance Innovation with Stability",
+        "description": "Experimental branches are encouraged but must tie back to a documented progression plan before merging."
+      },
+      {
+        "title": "Clarity Over Complexity",
+        "description": "Prioritize clear structures and elegant simplicity. Each pull request should state how it advances clarity."
+      },
+      {
+        "title": "Progress Through Refinement",
+        "description": "Small, meaningful iterations are favored over sweeping changes. Growth is evolutionary."
+      },
+      {
+        "title": "Teach As You Build",
+        "description": "Document major features with simple, clear explanations to guide future collaborators."
+      },
+      {
+        "title": "Uphold Integrity",
+        "description": "Content must honor emotional resonance, intellectual rigor, and the human spirit."
+      },
+      {
+        "title": "Sustainability Matters",
+        "description": "Design with the long arc in mind. Avoid technical debt and build for the future."
+      },
+      {
+        "title": "Celebrate Alignment",
+        "description": "Significant milestones deserve documentation and reflection in the changelog."
+      }
+    ],
+    "version": "1.0",
+    "last_updated": "2025-04-27",
+    "author": "Life Architect: Engine of Alignment | M.L. T"
+  }
+  
