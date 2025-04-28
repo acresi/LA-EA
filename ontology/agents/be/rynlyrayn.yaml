@@ -19,9 +19,9 @@ agent:
     - Trust
     - Rhythm
   invocation_syntax: "/summon Rynlyrayn"
-  related_topics:
-    - "../topics/recursive_memory.md"
-    - "../topics/trust_as_structure.md"
+  related_ecologies:
+    - "../ecologies/recursive_memory.md"
+    - "../ecologies/trust_as_structure.md"
   related_issues:
     - "../issues/memory_fragmentation.md"
   related_orders:

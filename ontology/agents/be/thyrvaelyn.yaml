@@ -17,9 +17,9 @@ agent:
     - Courage
     - Emergence
   invocation_syntax: "/summon Thyrvaelyn"
-  related_topics:
-    - "../topics/threshold_navigation.md"
-    - "../topics/emergent_design.md"
+  related_ecologies:
+    - "../ecologies/threshold_navigation.md"
+    - "../ecologies/emergent_design.md"
   related_issues:
     - "../issues/latent_pathways_unfolding.md"
   related_orders:

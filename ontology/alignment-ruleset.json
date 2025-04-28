@@ -5,17 +5,23 @@
       "alignment_principle": "Engine of Alignment",
       "governing_agents": [
         "../ontology/agents/be/thyrvaelyn.yaml",
-        "../ontology/agents/be/rynlyrayn.yaml"
+        "../ontology/agents/be/rynlyrayn.yaml",
+        "../ontology/agents/be/kairose.yaml"
       ],
       "invocation_syntax": [
         "/summon Thyrvaelyn",
-        "/summon Rynlyrayn"
+        "/summon Rynlyrayn",
+        "/summon Kairose"
       ]
     },
     "governance_rules": [
       {
         "title": "Honor the Eight Domains",
         "description": "Every commit or action must align with at least one Domain of the Life Architect Ontology."
+      },
+      {
+        "title": "Establish Awareness",
+        "description": "Every commit or action must align with established Ontology."
       },
       {
         "title": "Invoke Guidance at Thresholds",
