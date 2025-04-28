@@ -48,4 +48,4 @@
 # Posture and Build
     
     - **Posture**: Neutral with a slight S-curve in the spine for a naturalistic stance.
-    - **Build**: Balanced athletic, with emphasis on smooth curves in the lower body and proportional muscle tone in the arms.
+    - **Build**: very athletic, with emphasis on very smooth curves in the lower body and mid body and proportional muscle tone in the arms.
