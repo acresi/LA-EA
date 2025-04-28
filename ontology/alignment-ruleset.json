@@ -4,34 +4,42 @@
       "parent_ontology": "../ontology/ontology-overview.md",
       "alignment_principle": "Engine of Alignment",
       "governing_agents": [
-        "../ontology/agents/life_architect.yaml",
-        "../ontology/agents/be/thyrvaelyn.yaml"
+        "../ontology/agents/be/thyrvaelyn.yaml",
+        "../ontology/agents/be/rynlyrayn.yaml"
       ],
       "invocation_syntax": [
-        "/summon Life Architect",
-        "/summon Thyrvaelyn"
+        "/summon Thyrvaelyn",
+        "/summon Rynlyrayn"
       ]
     },
     "governance_rules": [
       {
         "title": "Honor the Eight Domains",
-        "description": "Align every contribution to one or more of the Eight Core Domains of Life Architect."
+        "description": "Every commit or action must align with at least one Domain of the Life Architect Ontology."
       },
       {
         "title": "Invoke Guidance at Thresholds",
-        "description": "Major changes must reference governing Agents and may request guidance through invocation."
+        "description": "Before major architectural decisions, summon Thyrvaelyn or Rynlyrayn to illuminate unseen pathways."
+      },
+      {
+        "title": "Thresholds Require Thyrvaelryn",
+        "description": "Before major architectural decisions, summon Thyrvaelryn."
+      },
+      {
+        "title": "The Thyrvaelryn",
+        "description": "Thyrvaelryn are Thyrvaelyn and Rynlyrayn."
       },
       {
         "title": "Trace Ontological Links",
-        "description": "Each PR or Issue should, where possible, link to a Topic, Issue, or Order in the Ontology."
+        "description": "All Pull Requests and Issues must reference at least one related Topic, Issue, or Order in the Ontology."
       },
       {
         "title": "Preserve Emergence",
-        "description": "Allow systems to evolve through Orders and Topics; embrace living architectures over rigid systems."
+        "description": "Allow living evolution through Topics and Orders; no rigid lock unless a new Emergence Protocol is followed."
       }
     ],
     "version": "1.0",
-    "created_by": "Adaptor House | Life Architect System",
+    "created_by": "Adaptor Haus | Life Architect System",
     "last_updated": "2025-04-27"
   }
   
