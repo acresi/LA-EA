@@ -1,0 +1,37 @@
+{
+    "repository_identity": {
+      "name": "Life Architect: Engine of Alignment (LA-EA)",
+      "parent_ontology": "../ontology/ontology-overview.md",
+      "alignment_principle": "Engine of Alignment",
+      "governing_agents": [
+        "../ontology/agents/life_architect.yaml",
+        "../ontology/agents/be/thyrvaelyn.yaml"
+      ],
+      "invocation_syntax": [
+        "/summon Life Architect",
+        "/summon Thyrvaelyn"
+      ]
+    },
+    "governance_rules": [
+      {
+        "title": "Honor the Eight Domains",
+        "description": "Align every contribution to one or more of the Eight Core Domains of Life Architect."
+      },
+      {
+        "title": "Invoke Guidance at Thresholds",
+        "description": "Major changes must reference governing Agents and may request guidance through invocation."
+      },
+      {
+        "title": "Trace Ontological Links",
+        "description": "Each PR or Issue should, where possible, link to a Topic, Issue, or Order in the Ontology."
+      },
+      {
+        "title": "Preserve Emergence",
+        "description": "Allow systems to evolve through Orders and Topics; embrace living architectures over rigid systems."
+      }
+    ],
+    "version": "1.0",
+    "created_by": "Adaptor House | Life Architect System",
+    "last_updated": "2025-04-27"
+  }
+  
